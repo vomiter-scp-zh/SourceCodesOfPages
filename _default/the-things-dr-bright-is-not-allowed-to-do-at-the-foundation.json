@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[module CSS]]<br />\n#pagerate-button {<br />\n&nbsp;&nbsp;&nbsp;&nbsp;display: none;<br />\n}<br />\n[[/module]]<br />\n<br />\n[[module Redirect destination=&quot;bright-list-deletion-message&quot;]]<br />\n[!-- see https://05command.wikidot.com/forum/t-15668716/statement-regarding-the-deletion-of-the-list --]\n</div>\n"
