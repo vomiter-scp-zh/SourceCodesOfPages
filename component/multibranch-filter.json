@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[module Listpages category=&quot;_default&quot; name=&quot;{$link}-{$br}&quot;]]<br />\n[[%%content{0}%%module css]]<br />\n#u-top-{$link} + .multibranch-wrapper .{$br}, #u-top-{$link} + .multibranch-wrapper .other-trans-br{<br />\ndisplay:block;<br />\n}<br />\n<br />\n[[%%content{0}%%/module]]<br />\n[[/module]]\n</div>\n"
