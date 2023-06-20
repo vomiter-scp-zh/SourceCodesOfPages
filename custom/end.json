@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[%%content{0}%%/module]]<br />\n[[include <a href=\"http://topia.wikidot.com/inc-loop\">:topia:inc-loop</a> c=__________|p=:scp-zh-tr:custom:end-backend]]<br />\n|name=%%name%%<br />\n]]<br />\n[[/module]]<br />\n[[/div]]<br />\n[[/iftags]]\n</div>\n"
