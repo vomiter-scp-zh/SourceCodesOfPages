@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[/div]][[div [[#if {$nohide} |&nbsp;&nbsp;| class=&quot;colmod-link-end&quot; ]] ]]<br />\n[[div_ class=&quot;foldable-list-container&quot;]]<br />\n[[#if {$nohide} |&nbsp;&nbsp;| [# {$hide}] ]][[/div]][[/div]][[/li]][[/ul]][[/div]]\n</div>\n"
