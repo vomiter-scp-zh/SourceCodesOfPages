@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[include <a href=\"/component:image-block-left-base\">component:image-block-left-base</a> name={$name}|caption={$caption}|width={$width}|width=300px]]\n</div>\n"

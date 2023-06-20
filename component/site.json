@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[span class=&quot;siteIcon&quot; style=&quot;background: linear-gradient(to bottom right, #999,{$c0});&quot;]][[image component:site/facility-texture.png]][[span class=&quot;number&quot;]]{$number}[[/span]][[/span]] [[size 110%]]**{$name}** {$subtitle}[[/size]]\n</div>\n"

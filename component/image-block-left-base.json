@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[div class=&quot;scp-image-block block-left&quot; style=&quot;width:{$width};&quot;]]<br />\n[[image {$name} style=&quot;width:{$width};&quot;]]<br />\n[[div class=&quot;scp-image-caption&quot; style=&quot;width:{$width};&quot;]]<br />\n{$caption}<br />\n[[/div]]<br />\n[[/div]]\n</div>\n"
