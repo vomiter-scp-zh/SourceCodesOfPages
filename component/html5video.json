@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[html]]<br />\n&lt;video preload=&quot;metadata&quot; controls {$autoplay} style=&quot;width: 100%&quot;&gt;<br />\n&lt;source src=&quot;{$url}&quot;&gt;<br />\n&lt;/video&gt;<br />\n[[/html]]\n</div>\n"

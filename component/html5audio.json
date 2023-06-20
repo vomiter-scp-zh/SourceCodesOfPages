@@ -1,0 +1,1 @@
+"<h1>頁面源代碼</h1>\n\n<div class=\"page-source\">\n\t[[html]]<br />\n&lt;audio preload=&quot;metadata&quot; controls loop {$autoplay} style=&quot;width: 100%&quot;&gt;<br />\n&lt;source src=&quot;{$url}&quot;&gt;<br />\n&lt;/audio&gt;<br />\n[[/html]]\n</div>\n"
